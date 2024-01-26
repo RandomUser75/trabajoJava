@@ -8,5 +8,5 @@
  * @author killer
  */
 public class si {
-    
+    String si;
 }
