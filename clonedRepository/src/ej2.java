@@ -9,5 +9,5 @@
  */
 public class ej2 {
     String a;
-    String b;
+    String c;
 }
