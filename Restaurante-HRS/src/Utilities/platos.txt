@@ -1,0 +1,20 @@
+Crepe, 6, 10, GRANO, ENTRANTES
+Ensalada de quinoa, 10.50, 20, VERDURA,  ENTRANTES
+Coulant, 4.5, 5, GRANO, false, true
+Salmón a la parrilla, 15.75, 25, PROTEINAS, CARNES
+Espaguetis con albóndigas, 12.25, 30, GRANO,  GUISOS
+Batido de frutas tropicales, 7.90, 10, FRUTA, true, false
+Tacos de pollo, 14.30, 22, PROTEINAS, CARNES
+Risotto de champiñones, 13.40, 35, GRANO, GUISOS
+Wraps de verduras, 9.60, 15, VERDURA, ENTRANTES
+Filete de ternera, 18.90, 28, PROTEINAS, CARNES
+Pizza vegetariana, 11.80, 25, GRANO,  ENTRANTES
+Smoothie de espinacas y piña, 8.20, 12, VERDURA, true, false
+Lentejas estofadas, 10.00, 40, GRANO,  GUISOS
+Omelette de champiñones, 9.50, 18, PROTEINAS,  VERDURAS_REVUELTOS
+Hamburguesa vegana, 12.80, 20, GRANO,  ENTRANTES
+Hamburguesa ternera, 12.80, 20, GRANO,  CARNES
+Pasta carbonara, 14.20, 30, PROTEINAS, ENTRANTES
+Ensalada de frutas, 6.75, 15, FRUTA, true, false
+Ensalada de frutas, 6.75, 15, FRUTA, VERDURAS_REVUELTOS
+Crepe, 6, 10, GRANO, true, false
